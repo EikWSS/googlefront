@@ -2,7 +2,7 @@
 <h1 align="center">Google Front</h1>
 <div align="center">
   <h3>
-    <a href="https://github.com/roykenvgs/test">
+    <a href="https://github.com/EikWSS/googlefront">
       Lenken til prosjektet
     </a>
   </h3>
